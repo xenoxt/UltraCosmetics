@@ -68,7 +68,7 @@ Categories:
 # Default one is Pex's.
 #
 TreasureChests:
-  Enabled: false
+  Enabled: true
   Key-Price: 1000
   Loots:
     Money:
